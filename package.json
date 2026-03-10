@@ -1,0 +1,22 @@
+{
+  "name": "playwrightprograms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samruddhi1528/PlaywrightPrograms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samruddhi1528/PlaywrightPrograms/issues"
+  },
+  "homepage": "https://github.com/Samruddhi1528/PlaywrightPrograms#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}
