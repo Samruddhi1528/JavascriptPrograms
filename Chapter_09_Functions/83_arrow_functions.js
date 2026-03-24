@@ -1,3 +1,4 @@
+//Function expression
 const greet = function (name) {
     return `Hello ${name}`
 }
@@ -9,6 +10,12 @@ Remove function keyword
 Remove return keyword
 Remove {} if single line
 */
+
+const counter = n => n * 2
+console.log(counter(2))
+//here, 0
+
+
 const greet1 = (name) => `Hello ${name}`
 console.log(greet1("John"))
 
@@ -32,3 +39,7 @@ const getResult = (score) => {
     }
 }
 console.log(getResult(35))
+
+
+
+
